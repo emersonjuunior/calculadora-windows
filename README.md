@@ -22,6 +22,6 @@
 Para rodar o arquivo localmente na sua máquina:  
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/calculadora.git
+git clone https://github.com/emersonjuunior/calculadora-windows.git
 ```
 Depois, basta abrir o arquivo index.html no navegador 😁.
